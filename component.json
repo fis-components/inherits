@@ -1,0 +1,10 @@
+{
+    "name": "inherits",
+    "description": "Browser-friendly inheritance fully compatible with standard node.js inherits()",
+    "repos": "https://github.com/isaacs/inherits",
+    "main": "./inherits_browser.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "2.0.0"
+}
